@@ -1,0 +1,7 @@
+C:\Users\elede\source\repos\1.1\1.1\bin\Debug\1.1.exe.config
+C:\Users\elede\source\repos\1.1\1.1\bin\Debug\1.1.exe
+C:\Users\elede\source\repos\1.1\1.1\bin\Debug\1.1.pdb
+C:\Users\elede\source\repos\1.1\1.1\obj\Debug\1.1.csproj.AssemblyReference.cache
+C:\Users\elede\source\repos\1.1\1.1\obj\Debug\1.1.csproj.CoreCompileInputs.cache
+C:\Users\elede\source\repos\1.1\1.1\obj\Debug\1.1.exe
+C:\Users\elede\source\repos\1.1\1.1\obj\Debug\1.1.pdb
