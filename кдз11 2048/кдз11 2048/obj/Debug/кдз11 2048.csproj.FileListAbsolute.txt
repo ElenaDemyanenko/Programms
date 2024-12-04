@@ -1,0 +1,20 @@
+C:\Users\elede\source\repos\кдз11 2048\кдз11 2048\bin\Debug\кдз11 2048.exe.config
+C:\Users\elede\source\repos\кдз11 2048\кдз11 2048\bin\Debug\кдз11 2048.exe
+C:\Users\elede\source\repos\кдз11 2048\кдз11 2048\bin\Debug\кдз11 2048.pdb
+C:\Users\elede\source\repos\кдз11 2048\кдз11 2048\bin\Debug\Newtonsoft.Json.dll
+C:\Users\elede\source\repos\кдз11 2048\кдз11 2048\bin\Debug\System.Memory.dll
+C:\Users\elede\source\repos\кдз11 2048\кдз11 2048\bin\Debug\System.Text.Json.dll
+C:\Users\elede\source\repos\кдз11 2048\кдз11 2048\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\elede\source\repos\кдз11 2048\кдз11 2048\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\elede\source\repos\кдз11 2048\кдз11 2048\bin\Debug\System.Buffers.dll
+C:\Users\elede\source\repos\кдз11 2048\кдз11 2048\bin\Debug\System.ValueTuple.dll
+C:\Users\elede\source\repos\кдз11 2048\кдз11 2048\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\elede\source\repos\кдз11 2048\кдз11 2048\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\elede\source\repos\кдз11 2048\кдз11 2048\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\elede\source\repos\кдз11 2048\кдз11 2048\obj\Debug\кдз11 2048.csproj.AssemblyReference.cache
+C:\Users\elede\source\repos\кдз11 2048\кдз11 2048\obj\Debug\кдз11 2048.csproj.SuggestedBindingRedirects.cache
+C:\Users\elede\source\repos\кдз11 2048\кдз11 2048\obj\Debug\кдз11 2048.exe.config
+C:\Users\elede\source\repos\кдз11 2048\кдз11 2048\obj\Debug\кдз11 2048.csproj.CoreCompileInputs.cache
+C:\Users\elede\source\repos\кдз11 2048\кдз11 2048\obj\Debug\кдз11 2048.csproj.Up2Date
+C:\Users\elede\source\repos\кдз11 2048\кдз11 2048\obj\Debug\кдз11 2048.exe
+C:\Users\elede\source\repos\кдз11 2048\кдз11 2048\obj\Debug\кдз11 2048.pdb
