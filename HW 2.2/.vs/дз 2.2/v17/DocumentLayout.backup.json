@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\elede\\source\\repos\\\u0434\u0437 2.2\\",
+  "WorkspaceRootPath": "C:\\github\\Programms\\HW 2.2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3389A1F6-C55D-4C06-9BAA-19CC33D6470A}|\u0434\u0437 2.2\\\u0434\u0437 2.2.csproj|c:\\users\\elede\\source\\repos\\\u0434\u0437 2.2\\\u0434\u0437 2.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3389A1F6-C55D-4C06-9BAA-19CC33D6470A}|\u0434\u0437 2.2\\\u0434\u0437 2.2.csproj|c:\\github\\programms\\hw 2.2\\\u0434\u0437 2.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3389A1F6-C55D-4C06-9BAA-19CC33D6470A}|\u0434\u0437 2.2\\\u0434\u0437 2.2.csproj|solutionrelative:\u0434\u0437 2.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\elede\\source\\repos\\\u0434\u0437 2.2\\\u0434\u0437 2.2\\Program.cs",
+              "DocumentMoniker": "C:\\github\\Programms\\HW 2.2\\\u0434\u0437 2.2\\Program.cs",
               "RelativeDocumentMoniker": "\u0434\u0437 2.2\\Program.cs",
-              "ToolTip": "C:\\Users\\elede\\source\\repos\\\u0434\u0437 2.2\\\u0434\u0437 2.2\\Program.cs",
+              "ToolTip": "C:\\github\\Programms\\HW 2.2\\\u0434\u0437 2.2\\Program.cs",
               "RelativeToolTip": "\u0434\u0437 2.2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T23:28:37.694Z",
               "EditorCaption": ""

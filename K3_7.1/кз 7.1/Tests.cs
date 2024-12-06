@@ -1,12 +1,11 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 namespace ConsoleApp.Tests
+
 {
     [TestClass]
     public class Tests
     {
-
-
         [TestMethod]
         public void TestZeroConversion()
         {
@@ -19,18 +18,21 @@ namespace ConsoleApp.Tests
         {
             var actualResult = StringToInt.Convert(int.MaxValue.ToString());
             Assert.AreEqual(int.MaxValue, actualResult);}
+
         [TestMethod]
         public void TestNegativeBoundaryConversion()
         {
             var actualResult = StringToInt.Convert(int.MinValue.ToString());
             Assert.AreEqual(int.MinValue, actualResult);
         }
+
         [TestMethod]
         [ExpectedException(typeof(FormatException))]
         public void TestWhitespaceInput()
         {
             StringToInt.Convert(" ");
         }
+
         [TestMethod]
         [ExpectedException(typeof(FormatException))]
         public void TestMixedCharactersAndNumbers()
