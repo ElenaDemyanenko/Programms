@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\github\\Programms\\Labs_2025_razrabotka_graf_pril\\lab_89\\backend_Lab_89\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C569BDFD-1E12-4232-8B7F-163DCB659060}|WebApplication6\\MyNotes.csproj|c:\\github\\programms\\labs_2025_razrabotka_graf_pril\\lab_89\\backend_lab_89\\webapplication6\\contracts\\getnotesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C569BDFD-1E12-4232-8B7F-163DCB659060}|WebApplication6\\MyNotes.csproj|solutionrelative:webapplication6\\contracts\\getnotesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C569BDFD-1E12-4232-8B7F-163DCB659060}|WebApplication6\\MyNotes.csproj|c:\\github\\programms\\labs_2025_razrabotka_graf_pril\\lab_89\\backend_lab_89\\webapplication6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C569BDFD-1E12-4232-8B7F-163DCB659060}|WebApplication6\\MyNotes.csproj|solutionrelative:webapplication6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{C569BDFD-1E12-4232-8B7F-163DCB659060}|WebApplication6\\MyNotes.csproj|solutionrelative:webapplication6\\contracts\\getnotesrequestcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C569BDFD-1E12-4232-8B7F-163DCB659060}|WebApplication6\\MyNotes.csproj|c:\\github\\programms\\labs_2025_razrabotka_graf_pril\\lab_89\\backend_lab_89\\webapplication6\\contracts\\getnotesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C569BDFD-1E12-4232-8B7F-163DCB659060}|WebApplication6\\MyNotes.csproj|solutionrelative:webapplication6\\contracts\\getnotesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C569BDFD-1E12-4232-8B7F-163DCB659060}|WebApplication6\\MyNotes.csproj|c:\\github\\programms\\labs_2025_razrabotka_graf_pril\\lab_89\\backend_lab_89\\webapplication6\\contracts\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C569BDFD-1E12-4232-8B7F-163DCB659060}|WebApplication6\\MyNotes.csproj|solutionrelative:webapplication6\\contracts\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -122,19 +122,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "GetNotesResponse.cs",
               "DocumentMoniker": "C:\\github\\Programms\\Labs_2025_razrabotka_graf_pril\\lab_89\\backend_Lab_89\\WebApplication6\\Contracts\\GetNotesResponse.cs",
               "RelativeDocumentMoniker": "WebApplication6\\Contracts\\GetNotesResponse.cs",
               "ToolTip": "C:\\github\\Programms\\Labs_2025_razrabotka_graf_pril\\lab_89\\backend_Lab_89\\WebApplication6\\Contracts\\GetNotesResponse.cs",
               "RelativeToolTip": "WebApplication6\\Contracts\\GetNotesResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T23:04:12.758Z"
+              "WhenOpened": "2025-04-15T23:04:12.758Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "GetNotesRequestcs.cs",
               "DocumentMoniker": "C:\\github\\Programms\\Labs_2025_razrabotka_graf_pril\\lab_89\\backend_Lab_89\\WebApplication6\\Contracts\\GetNotesRequestcs.cs",
               "RelativeDocumentMoniker": "WebApplication6\\Contracts\\GetNotesRequestcs.cs",
@@ -146,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CreateNoteRequest.cs",
               "DocumentMoniker": "C:\\github\\Programms\\Labs_2025_razrabotka_graf_pril\\lab_89\\backend_Lab_89\\WebApplication6\\Contracts\\CreateNoteRequest.cs",
               "RelativeDocumentMoniker": "WebApplication6\\Contracts\\CreateNoteRequest.cs",
@@ -158,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\github\\Programms\\Labs_2025_razrabotka_graf_pril\\lab_89\\backend_Lab_89\\WebApplication6\\appsettings.Development.json",
               "RelativeDocumentMoniker": "WebApplication6\\appsettings.Development.json",
@@ -170,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "NotesDbContext.cs",
               "DocumentMoniker": "C:\\github\\Programms\\Labs_2025_razrabotka_graf_pril\\lab_89\\backend_Lab_89\\WebApplication6\\DataAccess\\NotesDbContext.cs",
               "RelativeDocumentMoniker": "WebApplication6\\DataAccess\\NotesDbContext.cs",
@@ -182,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "NotesController.cs",
               "DocumentMoniker": "C:\\github\\Programms\\Labs_2025_razrabotka_graf_pril\\lab_89\\backend_Lab_89\\WebApplication6\\Controllers\\NotesController.cs",
               "RelativeDocumentMoniker": "WebApplication6\\Controllers\\NotesController.cs",
@@ -194,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\github\\Programms\\Labs_2025_razrabotka_graf_pril\\lab_89\\backend_Lab_89\\WebApplication6\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "WebApplication6\\Controllers\\WeatherForecastController.cs",
@@ -206,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DbNote.cs",
               "DocumentMoniker": "C:\\github\\Programms\\Labs_2025_razrabotka_graf_pril\\lab_89\\backend_Lab_89\\WebApplication6\\Models\\DbNote.cs",
               "RelativeDocumentMoniker": "WebApplication6\\Models\\DbNote.cs",
@@ -218,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MyNotes.http",
               "DocumentMoniker": "C:\\github\\Programms\\Labs_2025_razrabotka_graf_pril\\lab_89\\backend_Lab_89\\WebApplication6\\MyNotes.http",
               "RelativeDocumentMoniker": "WebApplication6\\MyNotes.http",
@@ -230,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\github\\Programms\\Labs_2025_razrabotka_graf_pril\\lab_89\\backend_Lab_89\\WebApplication6\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WebApplication6\\WeatherForecast.cs",
@@ -242,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\github\\Programms\\Labs_2025_razrabotka_graf_pril\\lab_89\\backend_Lab_89\\WebApplication6\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication6\\Program.cs",
