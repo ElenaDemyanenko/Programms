@@ -22,6 +22,18 @@ const GameButton = styled(Button)({
   },
 });
 
+const HistoryButton = styled(Button)({
+  margin: '2px 0',
+  backgroundColor: '#333333',
+  color: 'white',
+  padding: '4px 8px',
+  minWidth: 'auto',
+  fontSize: '0.8rem',
+  '&:hover': {
+    backgroundColor: '#444444',
+  },
+});
+
 let turn_count = 0;
 
 function Square({ value, onSquareClick }) {
@@ -95,11 +107,55 @@ export default function Game() {
     const nextHistory = [...history.slice(0, currentMove + 1), nextSquares];
     setHistory(nextHistory);
     setCurrentMove(nextHistory.length - 1);
+    turn_count = nextHistory.length - 1;
   }
+
+  function jumpTo(nextMove) {
+    setCurrentMove(nextMove);
+    turn_count = nextMove;
+  }
+
+  const moves = history.map((squares, move) => {
+    let description;
+    if (move > 0) {
+      description = `Ход ${move}`;
+    } else {
+      description = 'Начало';
+    }
+    return (
+      <li key={move} style={{ margin: '2px 0' }}>
+        <HistoryButton onClick={() => jumpTo(move)}>{description}</HistoryButton>
+      </li>
+    );
+  });
 
   return (
     <FullScreenBackground>
-      <Board xIsNext={xIsNext} squares={currentSquares} onPlay={handlePlay} />
+      <Box display="flex" alignItems="flex-start" gap={4} sx={{ maxWidth: '800px', padding: '20px' }}>
+        <Board xIsNext={xIsNext} squares={currentSquares} onPlay={handlePlay} />
+        
+        <Box sx={{ 
+          marginLeft: '20px',
+          maxHeight: '400px',
+          overflowY: 'auto',
+          padding: '10px',
+          borderLeft: '1px solid #333',
+        }}>
+          <Typography variant="h6" sx={{ color: 'white', marginBottom: '10px', textAlign: 'center' }}>
+            История
+          </Typography>
+          <ul style={{ 
+            listStyleType: 'none', 
+            paddingLeft: 0,
+            margin: 0,
+            display: 'flex',
+            flexDirection: 'column',
+            gap: '4px'
+          }}>
+            {moves}
+          </ul>
+        </Box>
+      </Box>
     </FullScreenBackground>
   );
 }
